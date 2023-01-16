@@ -1,2 +1,2 @@
-# Crux-projects
-Projects on python and web development.
+# Proj on web dev
+
